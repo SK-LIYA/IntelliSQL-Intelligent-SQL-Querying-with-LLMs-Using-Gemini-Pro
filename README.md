@@ -49,6 +49,4 @@ If you add configuration (database connection strings, credentials), prefer usin
 
 Contributions are welcome. Open an issue or submit a pull request with a clear description of the change.
 
-## License
 
-This project is unlicensed — add a license file if you intend to publish or share it widely.
