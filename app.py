@@ -104,7 +104,7 @@ def page_about():
     st.markdown("</div>", unsafe_allow_html=True)
 
     st.image(
-        "https://download.logo.wine/logo/oracle_SQL_Developer/oracle_SQL_Developer-Logo.wine.png",
+        "https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg",
            width=300
     )
 
