@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Run the main app:
 
 ```bash
-python app.py
+python -m streamlit run app.py
 ```
 
 Run `python app.py --help` for available options if implemented.
